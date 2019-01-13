@@ -9,7 +9,7 @@ offerings:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
+        Lore ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
         sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
         molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
         sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae
